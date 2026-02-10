@@ -105,7 +105,7 @@ For SQL files, the script attempts to extract:
 - Client name (from comments or USE statement)
 - Date (from comments or current date)
 
-Resulting in filenames like: `LBDM-123_ClientName_2023-12-05.sql`
+Resulting in filenames like: `JIRATICKET_ClientName_2023-12-05.sql`
 
 ## Error Handling
 
